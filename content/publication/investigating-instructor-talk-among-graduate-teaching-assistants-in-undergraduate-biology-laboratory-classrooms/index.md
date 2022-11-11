@@ -57,8 +57,7 @@ title: Investigating Instructor Talk among Graduate Teaching Assistants in
   Undergraduate Biology Laboratory Classrooms
 doi: ""
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: ""
@@ -66,7 +65,7 @@ image:
   preview_only: false
 date: 2022-11-11T19:21:39.986Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
