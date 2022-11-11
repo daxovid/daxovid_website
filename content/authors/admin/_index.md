@@ -1,84 +1,57 @@
 ---
-# Display name
-title: Alice Bighetti 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Dax Ovid, PhD
+role: Assistant Professor, Discipline-Based Education Research
+avatar_filename: professional-headshot-dax.png
+bio: My research includes qualitative/quantitative methods to explore students'
+  relatedness and sense of belonging in STEM.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Biology Education Research
+  - Identity
+  - HigherEd
+  - Equity
+  - Inclusion
+  - Social Justice
+  - Endocrinology
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DaxOvid
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=FZ8TqMcAAAAJ&view_op=list_works&sortby=pubdate
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/daxovid/
+organizations:
+  - name: University of Georgia, Athens
+    url: https://vet.uga.edu/education/undergraduate-programs/
+education:
+  courses:
+    - course: PhD in Integrative Biology
+      institution: University of California, Berkeley
+      year: 2017
+    - course: B.A. in Italian Studies
+      institution: University of California, Berkeley
+      year: 2011
+    - course: B.A. in Integrative Biology
+      institution: University of California, Berkeley
+      year: 2011
+superuser: true
+last_name: Bighetti
 highlight_name: true
+first_name: Alice
+email: ""
 ---
+Dax Ovid is a biology and data science education researcher who studies interdisciplinary approaches to teaching and learning for STEM graduate and undergraduate students. Dax seeks to identify challenges impeding systemic pedagogical innovation in the sciences and to investigate inclusive practices in higher education that foster belonging. Their research aims to expand the defining features of “being a scientist” in the 21st century for current and future scientists. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dax is joining the University of Georgia, Athens - College of Veterinary Medicine, Department of Physiology and Pharmacology to support the new [undergraduate program in Biomedical Physiology](https://vet.uga.edu/education/undergraduate-programs/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+P﻿rospective graduate students - please send an email with a description of how you would like to transform biology education research to promote a more equitable society.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
