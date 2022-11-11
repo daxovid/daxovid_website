@@ -15,9 +15,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Ovid
-  - D. & Leonardo
-  - Z.
+  - Ovid & Leonardo
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -41,7 +39,7 @@ image:
   filename: ""
 date: 2022-11-11T19:08:14.526Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
