@@ -4,12 +4,26 @@ title: Investigating Instructor Talk among Graduate Teaching Assistants in
 publication_types:
   - "2"
 authors:
+  - Gelinas
   - Ovid
-  - Rice
-  - Luna
-  - Tabayoyong
-  - Lajevardi
-  - Tanner
+  - Amaya-Mejia
+  - Ayala
+  - Baek
+  - Gasmin
+  - Hissen
+  - Johnson
+  - Kossa
+  - Levesque
+  - Lutz
+  - Lyons
+  - Mata
+  - Mitchell
+  - Paggeot
+  - Pastor-Infantas
+  - Patel
+  - Prestol-Casillas
+  - Xu Chen
+  - "& Tanner"
 author_notes:
   - Equal contribution
   - Equal contribution
