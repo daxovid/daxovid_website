@@ -20,9 +20,7 @@ publication_types:
   - "2"
 authors:
   - Ovid & Mafeta Phaka
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: "*The Journal of Environmental Education, 53*(2)"
 summary: ""
 url_dataset: ""
@@ -43,7 +41,7 @@ image:
   preview_only: false
 date: 2022-11-11T19:17:17.165Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
