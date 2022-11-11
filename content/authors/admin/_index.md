@@ -52,6 +52,6 @@ Dax Ovid is a biology and data science education researcher who studies interdis
 
 Dax is joining the University of Georgia, Athens - College of Veterinary Medicine, Department of Physiology and Pharmacology to support the new [undergraduate program in Biomedical Physiology](https://vet.uga.edu/education/undergraduate-programs/).
 
-P﻿rospective graduate students - please send an email with a description of how you would like to transform biology education research to promote a more equitable society.
+\*P﻿rospective graduate students - please send an email with a description of how you would like to transform biology education research to promote a more equitable society.\*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
