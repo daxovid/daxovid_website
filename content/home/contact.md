@@ -44,7 +44,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: '[https://twitter.com/DaxOvid](https://twitter.com/DaxOvid)'
+      link: 'https://twitter.com/DaxOvid'
 
 design:
   columns: '2'
