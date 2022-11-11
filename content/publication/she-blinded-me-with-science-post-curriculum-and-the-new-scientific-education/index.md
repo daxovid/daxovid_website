@@ -29,8 +29,7 @@ url_video: ""
 title: "She Blinded Me with Science: Post-Curriculum and the New Scientific Education"
 doi: ""
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: ""
