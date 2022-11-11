@@ -6,10 +6,7 @@ bio: My research includes qualitative/quantitative methods to explore students'
   relatedness and sense of belonging in STEM.
 interests:
   - Biology Education Research
-  - Identity
-  - HigherEd
-  - Equity
-  - Inclusion
+  - Curriculum Studies
   - Social Justice
   - Endocrinology
 social:
