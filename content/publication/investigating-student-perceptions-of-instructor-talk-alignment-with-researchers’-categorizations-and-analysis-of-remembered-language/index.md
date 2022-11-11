@@ -10,7 +10,7 @@ authors:
   - Tabayoyong
   - Lajevardi
   - Tanner
-publication: "*CBE—Life Sciences Education(20)*4"
+publication: "*CBE—Life Sciences Education, 20*(4)"
 abstract: Instructor Talk—the noncontent language used by an instructor during
   class time—is likely to influence learning environments in science classrooms
   from the student perspective. Despite Instructor Talk being found in every
