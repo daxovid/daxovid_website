@@ -1,7 +1,7 @@
 ---
 title: Dax Ovid, Ph.D.
 role: Assistant Professor, Discipline-Based Education Research
-avatar_filename: professional-headshot-dax.png
+avatar_filename: avatar.png
 bio: My research includes qualitative/quantitative methods to explore students'
   relatedness and sense of belonging in STEM.
 interests:
