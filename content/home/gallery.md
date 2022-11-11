@@ -8,7 +8,7 @@ subtitle: null
 design:
   columns: "1"
   background:
-    image: corpus-500-×-250-px-.png
+    image: ""
 ---
 
 {{< gallery album="demo" >}}
