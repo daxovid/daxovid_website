@@ -1,18 +1,18 @@
 ---
-title: Building Mentoring Networks - Update Me!
-subtitle: Hello! 👋 Folks interested in pursuing an advanced degree in DBER can learn more here.
+title: Building Mentoring Networks
+subtitle: Every person has different needs and strengths – what does the research say and how might we apply it to foster constructive mentoring networks?
 
 # Summary for listings and search engines
-summary: Hello! 👋 Folks interested in pursuing an advanced degree in DBER can learn more here.
+summary: Every person has different needs and strengths – what does the research say and how might we apply it to foster constructive mentoring networks?
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-11-11T00:00:00Z'
+date: '2022-11-12T00:00:00Z'
 
 # Date updated
-lastmod: '2022-11-11T00:00:00Z'
+lastmod: '2022-11-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -32,9 +32,9 @@ authors:
   - admin
 
 tags:
-  - DBER
-  - Graduate Students
-  - Postdocs
+  - Mentoring
+  - Managing Up
+  - Conflict Resolution
   - Professional Development
 
 ---
