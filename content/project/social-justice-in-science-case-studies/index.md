@@ -7,7 +7,7 @@ tags:
 date: "2022-11-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.tripplab.org/research
+external_link: https://www.tripplab.org/
 
 image:
   caption:
