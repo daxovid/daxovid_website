@@ -1,6 +1,6 @@
 ---
 title: Social Justice in Science Case Studies
-summary: Curricular supplements that engage students in science content with social justice topics
+summary: Curricular supplements that engage students in science content with social justice topics in collaboration with the Tripp Lab at UC Davis
 tags:
 - Social Justice
 date: "2022-11-12T00:00:00Z"
