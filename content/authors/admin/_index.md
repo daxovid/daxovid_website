@@ -51,4 +51,4 @@ Dax is joining the University of Georgia, Athens - College of Veterinary Medicin
 
 \*P﻿rospective graduate students - please send an email with a description of how you would like to transform biology education research to promote a more equitable society.\*
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
