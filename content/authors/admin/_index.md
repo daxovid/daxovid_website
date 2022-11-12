@@ -30,9 +30,9 @@ organizations:
     url: https://vet.uga.edu/education/undergraduate-programs/
 education:
   courses:
-    - course: Postdoc in [SEPAL](https://www.sfsusepal.org/)
+    - course: Postdoc in SEPAL
       institution: San Francisco State University
-      year: December 2019 - July 2022
+      year: Dec 2019 - July 2022
     - course: PhD in Integrative Biology
       institution: University of California, Berkeley
       year: 2017
