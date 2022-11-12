@@ -30,6 +30,9 @@ organizations:
     url: https://vet.uga.edu/education/undergraduate-programs/
 education:
   courses:
+    - course: Postdoc in [SEPAL](https://www.sfsusepal.org/)
+      institution: San Francisco State University
+      year: December 2019 - July 2022
     - course: PhD in Integrative Biology
       institution: University of California, Berkeley
       year: 2017
@@ -49,6 +52,6 @@ Dax Ovid is a biology and data science education researcher who studies interdis
 
 Dax is joining the University of Georgia, Athens - College of Veterinary Medicine, Department of Physiology and Pharmacology to support the new [undergraduate program in Biomedical Physiology](https://vet.uga.edu/education/undergraduate-programs/).
 
-\*P﻿rospective graduate students - please send an email with a description of how you would like to transform biology education research to promote a more equitable society.\*
+**Prospective graduate students - please send an email sharing a little about who you are, what you value, what skills/experience you bring, and what skills/experience you're interested in developing.** Ideas on how future work can promote a more equitable society are welcome as well!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
