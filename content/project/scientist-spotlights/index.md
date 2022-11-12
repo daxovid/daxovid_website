@@ -6,7 +6,7 @@ tags:
 date: "2022-11-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://scientistspotlights.org/
+external_link: [Scientist Spotlights Online Database](https://scientistspotlights.org/)
 
 image:
   caption:
