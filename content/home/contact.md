@@ -36,15 +36,8 @@ content:
   coordinates:
     latitude: '33.94119577650493'
     longitude: '-83.37418610314653'
-  directions: Enter Main CVM Building from D.W. Brooks Dr. Paid parking in Carlton Street Parking Deck S15.
-  office_hours:
-    - 'Please email to schedule a time'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/DaxOvid'
+  directions: Nearest paid parking is Carlton St Deck S15
+  appointment_url: 'https://calendly.com/daxovid_uga/30min'
 
 design:
   columns: '2'
