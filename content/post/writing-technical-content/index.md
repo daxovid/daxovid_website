@@ -1,5 +1,9 @@
 ---
 title: Writing technical content in Markdown
+
+# Is this an unpublished draft?
+draft: true
+
 date: 2019-07-12
 math: true
 image:
