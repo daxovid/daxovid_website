@@ -48,10 +48,12 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Dax Ovid is a biology and data science education researcher who studies interdisciplinary approaches to teaching and learning for STEM graduate and undergraduate students. Dax seeks to identify challenges impeding systemic pedagogical innovation in the sciences and to investigate inclusive practices in higher education that foster belonging. Their research aims to expand the defining features of “being a scientist” in the 21st century for current and future scientists. 
+My name is Dax Ovid (they/she), and I'm a biology and data science education researcher who studies interdisciplinary approaches to teaching and learning for STEM graduate and undergraduate students. My work strives to not only identify challenges impeding systemic pedagogical innovation in the sciences but also to investigate inclusive practices in higher education that foster belonging. My research aims to expand the defining features of “being a scientist” in the 21st century for current and future scientists. 
 
-Dax is joining the University of Georgia, Athens - College of Veterinary Medicine, Department of Physiology and Pharmacology to support the new [undergraduate program in Biomedical Physiology](https://vet.uga.edu/education/undergraduate-programs/).
+I'll be joining the University of Georgia, Athens - College of Veterinary Medicine, Department of Physiology and Pharmacology to support the new [undergraduate program in Biomedical Physiology](https://vet.uga.edu/education/undergraduate-programs/) and leading the CORPUS Education Lab.
 
-**Prospective graduate students - please send an email sharing a little about who you are, what you value, what skills/experience you bring, and what skills/experience you're interested in developing.** Ideas on how future work can promote a more equitable society are welcome as well!
+The **CORPUS Education Lab** stands for "Collaborative Opportunities for Research in Physiology and Under/Graduate Science," conducting Discipline-Based Education Research. We will work across the academic pathway and are open to exploring all levels of schooling (formal and informal, curricular and extra-curricular) to meet community needs, support our whole selves, and fulfill on under/graduate student interests and motivations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+**Prospective graduate students and undergraduate student researchers - please send an email sharing a little about who you are, what you value, what skills/experience you bring, and what skills/experience you're interested in developing.** Also, please feel welcome to share what kinds of scholarship interests you.
+
+{{< icon name="download" pack="fas" >}} Feel welcome to read more about my collaborative scholarship, teaching, and service on my {{< staticref "uploads/resume.pdf" "newtab" >}}curriculum vitae (CV){{< /staticref >}}.
